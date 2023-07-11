@@ -130,3 +130,31 @@ header {
 }
 
 /*feature section end*/
+/*extra section added*/
+.extra-section {
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+
+.delivery-promise {
+    background-image: url(../images/gradient1.png), url(../images/watch.png);
+    background-repeat: no-repeat;
+    padding: 75px 5px;
+
+}
+
+.delivery-promise-title {
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.delivery-promise-description {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+/*extra section end*/

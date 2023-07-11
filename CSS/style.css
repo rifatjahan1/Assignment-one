@@ -266,3 +266,31 @@ header {
     border-radius: 10px;
     margin: 15px;
 }
+/*footer section added*/
+
+.footer-section {
+    background-color: #111010;
+    text-align: center;
+    padding: 100px 260px;
+}
+
+.footer-section-title {
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+
+}
+
+.footer-section-description {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 50px;
+
+}
+
+small {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+}

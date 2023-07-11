@@ -158,3 +158,111 @@ header {
 }
 
 /*extra section end*/
+/*offer section added*/
+.offer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 100px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    gap: 50px;
+
+}
+
+.offer-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.offer-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.offer-content {
+    text-align: center;
+}
+
+
+
+/*offer-section end*/
+
+.social-media-section {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 80px;
+
+}
+
+.social-media-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.social-media-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+
+
+}
+
+.social-media-content {
+    padding: 0px 180px 50px 180px;
+}
+
+.social-media-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+
+
+}
+
+/*social media section end*/
+.order-section {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 80px;
+
+}
+
+.order-info {
+    background-image: url(../images/Rectangle\ bg.png);
+    background-repeat: no-repeat;
+    padding: 75px 85px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.order-title {
+    color: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+
+}
+
+.order-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.order-info #email {
+    outline: none;
+    border: 1px solid #ffffff;
+    padding: 20px 180px 20px 20px;
+    border-radius: 10px;
+    margin: 15px;
+}
